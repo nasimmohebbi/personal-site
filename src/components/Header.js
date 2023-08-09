@@ -3,7 +3,7 @@ import logo from '../assets/logo.svg'
 
 const Header = () => {
   return (
-  <header className=' py-8'>
+  <header className='py-8'>
   <div className= 'container mx-auto' id='header'>
   <div className='flex justify-between items-center'>
   <a href=''>
